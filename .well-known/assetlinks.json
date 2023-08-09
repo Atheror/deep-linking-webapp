@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.atheror.miscelaneos",
+      "sha256_cert_fingerprints": [
+        "BC:BA:E9:E5:EA:95:36:2E:70:F4:E4:36:CE:0F:B9:7B:F3:0C:DC:87:3A:6B:05:FC:E8:60:6D:03:29:47:FB:7D"
+      ]
+    }
+  }
+]
